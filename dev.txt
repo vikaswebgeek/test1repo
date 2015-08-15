@@ -1,1 +1,3 @@
 dev branch 1
+
+ADDED FUNCTIONS FOR DEVELOPEMTS 
